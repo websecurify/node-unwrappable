@@ -1,0 +1,14 @@
+{
+  "name": "unwrappable",
+  "version": "1.0.0",
+  "description": "Wraps a function into function layers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "nodeunit tests/"
+  },
+  "author": "Websecurify <contact@websecurify.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
