@@ -9,6 +9,6 @@
   "author": "Websecurify <contact@websecurify.com>",
   "license": "MIT",
   "devDependencies": {
-    "nodeunit": "^0.9.1"
+    "nodeunit": "^0.11.3"
   }
 }
